@@ -9,7 +9,7 @@ This project is a **QR Code Generator** that allows users to create QR codes for
 
 ## Demo
 
-![QR- code generater Screenshot]()
+![QR- code generater Screenshot](https://github.com/iamkeerthy/QR-Code-Generator/blob/main/images/QR-code.jpg)
 
 
 ## Installation

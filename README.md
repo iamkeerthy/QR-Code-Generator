@@ -1,4 +1,4 @@
-# QR Code Generator
+# QR Code Generator 💼
 
 This project is a **QR Code Generator** that allows users to create QR codes for URLs, text, and other data. It is a simple web application designed to make generating and sharing QR codes easy and convenient.
 
@@ -19,22 +19,22 @@ This project is a **QR Code Generator** that allows users to create QR codes for
    git clone https://github.com/iamkeerthy/QR-Code-Generator.git
    
 2.Navigate to the project directory:
-bash
+```bash
 cd QR-Code-Generator
-
+```
 3. Install the required dependencies (if applicable):
-bash
-pm install
-
+```bash
+npm install
+```
 5. Open the project in your browser or your code editor:
 
 6. Run the project locally using:
-bash
+```bash
 npm start
 
+```
 
-
-## Usage
+## Usage 🎯
 Open the app in your browser.
 Enter the URL or text you want to convert into a QR code.
 Click the "Generate QR Code" button.
@@ -42,7 +42,7 @@ Download or share the generated QR code.
 
 
 
-## Technologies Used
+## Technologies Used 🖥️
 HTML
 CSS
 JavaScript

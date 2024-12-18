@@ -14,10 +14,10 @@ This project is a **QR Code Generator** that allows users to create QR codes for
 
 ## Installation
 
-1. Clone the repository:
+1.Clone the repository:
    ```bash
    git clone https://github.com/iamkeerthy/QR-Code-Generator.git
-   
+   ```
 2.Navigate to the project directory:
 ```bash
 cd QR-Code-Generator
